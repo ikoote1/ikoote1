@@ -1,10 +1,12 @@
 <h1>Hi, I am ikoote</h1>
+<h2>Computer Engineer | Full Stack Developer | Web Designer | Technical Writer | Mentor</h2>
 
 <img src="./Brilliant Solutions For Your Code.png" alt="">
 <hr>
 
-<p>Software developer, Rails enthusiast, and part-time guitarist. Stack: JavaScript, Ruby, Rails, React, Redux. Looking for my next job!</p>
+<p>Experienced engineer & full-stack developer passionate about open-source. Skilled in coding, networking, testing & user-friendly designs. Proficient in various languages, unit testing, frameworks & cutting-edge tech. An agile learner with proven remote work excellence. Strong problem-solving abilities & communication skills.</p>
 <div>
+  <h2>Contact me on:</h2>
 <a href=""><link rel="stylesheet" href="ikootepreim@gmail.com">Email</a> 
 </div>
 <div>
