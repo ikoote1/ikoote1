@@ -3,7 +3,6 @@
 
 <img src="./Brilliant Solutions For Your Code.png" alt="">
 <hr>
-![Cover Image](https://github.com/ikoote1/ikoote1/assets/96288581/424a66bc-6233-427d-981c-45da12b851f7)
 
 <p>Experienced engineer & full-stack developer passionate about open-source. Skilled in coding, networking, testing & user-friendly designs. Proficient in various languages, unit testing, frameworks & cutting-edge tech. An agile learner with proven remote work excellence. Strong problem-solving abilities & communication skills.</p>
 <div>
